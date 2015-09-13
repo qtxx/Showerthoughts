@@ -1,0 +1,56 @@
+## About
+
+A subreddit for you to share all those thoughts, ideas, or philosophical questions that race through your head when in the shower.
+
+Showerthought is a loose term that applies to any thought you might have while carrying out a routine task like showering, driving, or daydreaming.
+
+Please be respectful of others submissions, if you disagree - explain why in the comments. Rudeness is unacceptable.
+
+## Rules
+
+- All content must be original. Unoriginal or reposted content will be removed.
+
+- No shower "observations".
+
+- No puns/wordplay.
+
+- No jokes.
+
+- No 'life pro tips'.
+
+- Ideas for reddit features should be posted in /r/IdeasForTheAdmins.
+
+- No politically motivated posts
+
+- Don't be a jerk.
+
+> Exceedingly nonsensical or common posts will be removed at the discretion of the mods (including posts that would fit better in other subreddits).
+
+> **This subreddit is moderated for quality**, which means we remove content that we deem to be low quality, low effort, nonsensical, or common/unoriginal. We do not "let the votes decide". We understand that this type of policy is controversial and uncommon, especially for default subreddits, but we believe this method of moderation gives a subreddit the best chance at maintaining quality.
+
+## CSS
+
+Our awesome logo & subreddit design was created by **/u/m_gartsman**  
+
+CSS by **/u/qtx** 
+
+## [View our public traffic stats.](http://goo.gl/PXu3es)
+
+## Subreddits you may like:
+
+Column A | Column B | Column B
+:--------:|:---------|:---------
+ |/r/nostupidquestions|/r/outofthemetaloop
+ |/r/shittyideas|/r/woahdude
+ |/r/lightbulb|/r/isitbullshit
+ |/r/baww|/r/rant
+ |/r/markmywords|/r/offmychest
+ |/r/theoryofreddit|/r/anger
+ |/r/outoftheloop|/r/self
+ |/r/crazyideas
+
+###### [twitter](http://goo.gl/UXaNxA) [facebook](http://goo.gl/SRmpze) [theme](https://xz.reddit.com/r/Showerthoughts/) [theme](https://www.reddit.com/r/Showerthoughts/)
+
+[](#/RES_SR_Config/NightModeCompatible)
+
+##### *have a prediction?* check out **/r/markmywords**!
